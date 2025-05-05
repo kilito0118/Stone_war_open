@@ -1,0 +1,15 @@
+{name: ko-kr-x-kod-local, locale: ko-KR}
+{name: ko-kr-x-kob-local, locale: ko-KR}
+{name: ko-KR-language, locale: ko-KR}
+{name: ko-kr-x-kod-network, locale: ko-KR}
+{name: ko-kr-x-koc-network, locale: ko-KR}
+{name: ko-kr-x-kob-network, locale: ko-KR}
+{name: ko-kr-x-ism-local, locale: ko-KR}
+
+Firebase configuration file lib\firebase_options.dart generated successfully with the following Firebase apps:
+
+Platform  Firebase App Id
+web       1:202635270387:web:5ea3081be07f1d2794bf86
+android   1:202635270387:android:9e444e6756c72b8594bf86
+ios       1:202635270387:ios:ddff4e2fd821a88f94bf86
+macos     1:202635270387:ios:ddff4e2fd821a88f94bf86

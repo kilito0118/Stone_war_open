@@ -1,0 +1,2 @@
+C:/stone_war/stone-war/stone_war/android/app/.cxx/Debug/1g2r4i3n/x86_64/CMakeFiles/edit_cache.dir
+C:/stone_war/stone-war/stone_war/android/app/.cxx/Debug/1g2r4i3n/x86_64/CMakeFiles/rebuild_cache.dir
