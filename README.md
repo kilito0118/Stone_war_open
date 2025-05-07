@@ -5,6 +5,7 @@ This is an open-source version of the Stone_war project. I hid the api keys and 
 
 
 ## [플레이 링크](https://stone-war.firebaseapp.com)
+https://stone-war.firebaseapp.com
 
 플러터 웹은 첫 실행이 느릴 수 있습니다.
 
